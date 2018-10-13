@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\bin\Debug\IDSelector.exe.config
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\bin\Debug\IDSelector.exe
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\bin\Debug\IDSelector.pdb
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\bin\Debug\WebDriver.dll
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\bin\Debug\WebDriver.Support.dll
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\bin\Debug\WebDriver.xml
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\bin\Debug\WebDriver.Support.xml
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\obj\Debug\IDSelector.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\obj\Debug\IDSelector.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\obj\Debug\IDSelector.csproj.CopyComplete
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\obj\Debug\IDSelector.exe
+C:\Users\user\source\repos\SeleniumWebDriver\NameSelector\IDSelector\obj\Debug\IDSelector.pdb

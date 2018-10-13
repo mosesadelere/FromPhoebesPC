@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Sport\Member\Member\bin\Debug\Member.exe.config
+C:\Users\user\source\repos\Sport\Member\Member\bin\Debug\Member.exe
+C:\Users\user\source\repos\Sport\Member\Member\bin\Debug\Member.pdb
+C:\Users\user\source\repos\Sport\Member\Member\obj\Debug\Member.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Sport\Member\Member\obj\Debug\Member.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sport\Member\Member\obj\Debug\Member.exe
+C:\Users\user\source\repos\Sport\Member\Member\obj\Debug\Member.pdb
